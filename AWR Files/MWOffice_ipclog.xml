@@ -1,0 +1,2371 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="ipc_log_formatter.xsl"?>
+<tool_session>
+	<ipc_session>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:41.0377</timestamp>
+			<serial_num>0000009</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>oflyZm9ZoDSFvqCxGq5oEl</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value><br/>--------------------------------------------------------------------------------------------------------------------------------------<br/>  Simulating Input_Matching_Network_EM using Advanced Frequency Sweep  (Async 64-bit : V13.02.8379.1) - Reserve 8 Threads<br/></value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:41.0382</timestamp>
+			<serial_num>0000010</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03104</msg_id> <msg_name>SE_SET_STAT_LABELS</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>CW_ZHXTpLtBISmM3r0eU0X</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:41.0392</timestamp>
+			<serial_num>0000011</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>xxT97sDqOtH7SIs4NMgF12</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:41.0449</timestamp>
+			<serial_num>0000012</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>%la9kEDfysZ6PQojhxen4V</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:41.0459</timestamp>
+			<serial_num>0000013</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>aYn0Ns1pM5B3mkdJgST%rv</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>		Meshing Geometry - Elapsed time ( 00:00:0.08 )</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:41.0459</timestamp>
+			<serial_num>0000014</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>8M2608q7xEuBxWmRFrl_Jn</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>			 Mesh Freq = 7.7 GHz</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:41.0459</timestamp>
+			<serial_num>0000015</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>QBoRlzkjdhdP4TfTs%sFZO</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>			 # of Facets = 205</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:41.0459</timestamp>
+			<serial_num>0000016</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>C45mglr_lLX2%I8mMxoL5y</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>			 # of Unknowns = 332</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:41.0459</timestamp>
+			<serial_num>0000017</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>9UGCyGoVFzBQeniAtai4F8</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>			 # of Nets = 1</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:41.0459</timestamp>
+			<serial_num>0000018</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>U82TwbsiJNbu4JVlTBkLli</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>			 # of Ports = 3</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:41.0461</timestamp>
+			<serial_num>0000019</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03103</msg_id> <msg_name>SE_INIT_STATUS_DLG</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>8vvAZ_gAV2i598kaxgGY2H</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:41.0461</timestamp>
+			<serial_num>0000020</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>Q7_GvWFwGC2CoaruFJXVTL</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>     --- Calculating Solution @ 6.7 GHz</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:41.0461</timestamp>
+			<serial_num>0000021</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03104</msg_id> <msg_name>SE_SET_STAT_LABELS</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>vFIvCNY37Mce0MWO3HbPIL</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:41.0462</timestamp>
+			<serial_num>0000022</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>Yn2KsaVpHBAOmj8IcyNUb7</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>		----- Candidate Solver Type : Direct (high frequency)</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:41.0465</timestamp>
+			<serial_num>0000023</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03104</msg_id> <msg_name>SE_SET_STAT_LABELS</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>m8aKwGVAHCh%p7Y3vMfT0%</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:41.0465</timestamp>
+			<serial_num>0000024</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>cfxg_51ik5bAkKhlV5lnll</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>		----- Calculating Greens Functions -----</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:41.0845</timestamp>
+			<serial_num>0000025</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>DQBBimlBpmmypq8tExRZ7n</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:41.0875</timestamp>
+			<serial_num>0000026</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>6th4R4gDh2tb9QLniZvQR%</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:41.0900</timestamp>
+			<serial_num>0000027</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03104</msg_id> <msg_name>SE_SET_STAT_LABELS</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>llGGmGGHGGJLGSZ0rQ17g4</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:41.0900</timestamp>
+			<serial_num>0000028</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>GHBbKkLZi%SL%qZnHRs2lM</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:41.0900</timestamp>
+			<serial_num>0000029</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>rqjOFfbGYKETWzvQd%gfZ0</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>		----- Matrix Setup -----</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:41.0900</timestamp>
+			<serial_num>0000030</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03104</msg_id> <msg_name>SE_SET_STAT_LABELS</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>YJtxRS54okjghd3hQd7mQt</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:42.0128</timestamp>
+			<serial_num>0000031</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>pNGw6G2mE9qaBEH%yL_B%W</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:42.0146</timestamp>
+			<serial_num>0000032</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>yAsGhOGRaHkvJh_j7VfpAZ</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:42.0146</timestamp>
+			<serial_num>0000033</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03104</msg_id> <msg_name>SE_SET_STAT_LABELS</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>6PvDd_toVRzcmcMmP1rm5J</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:42.0147</timestamp>
+			<serial_num>0000034</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>AdVVTDAVujCGeqHvGJ%sTZ</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:42.0148</timestamp>
+			<serial_num>0000035</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>3dceQMUp3xC26oaqwFEGCy</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:42.0149</timestamp>
+			<serial_num>0000036</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>yPSSfrpkJBhil5b2kI8nMx</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:42.0149</timestamp>
+			<serial_num>0000037</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>NAN%j7YfvM_B3WkAFiiT9b</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:42.0149</timestamp>
+			<serial_num>0000038</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>TNKp6VCTCrvkJZiVRbAMKj</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:42.0149</timestamp>
+			<serial_num>0000039</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>76d2oQ92gAaZgHQkLhjp5d</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>			 - Elapsed time ( 00:00:0.69 )</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:42.0151</timestamp>
+			<serial_num>0000040</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>rprkBJjhRd64QogSx3pudB</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>		----- Matrix Solve -----</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:42.0157</timestamp>
+			<serial_num>0000041</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>lWD3GsfXM%K9_UAaygHc2I</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>		----- Simulating DeEmbedding Standards -----</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:42.0157</timestamp>
+			<serial_num>0000042</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03104</msg_id> <msg_name>SE_SET_STAT_LABELS</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>KC1Ro7mttpQfDgYw3O0G82</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:42.0157</timestamp>
+			<serial_num>0000043</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>y8R3zkftgZSNTr6SIrroJJ</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>		           Port 3: Single line de-embedding</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:42.0264</timestamp>
+			<serial_num>0000044</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>bI7tMtReTkX2jI9OMD9asA</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:42.0264</timestamp>
+			<serial_num>0000045</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>q60_o3WnfFuqBVFGCCHTqL</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>		           Port 2: Single line de-embedding</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:42.0415</timestamp>
+			<serial_num>0000046</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>3lTynu8HUyJYaTNXv7JXuT</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:42.0415</timestamp>
+			<serial_num>0000047</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>1ozhyd7oQtz2ScaCMGrbFI</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>		           Port 1: Single line de-embedding</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:42.0643</timestamp>
+			<serial_num>0000048</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>ws3OMfbDYKu1VU7Nwv7cYs</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:42.0643</timestamp>
+			<serial_num>0000049</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>IuYvXNY87Myt29TxDu76Us</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>			 - Elapsed time ( 00:00:0.49 )</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:42.0644</timestamp>
+			<serial_num>0000050</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>fmLvqZZFTSDGquEEWyyGaa</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>     --- Solution @ 6.7 GHz - Elapsed time ( 00:00:1.18 )</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:42.0649</timestamp>
+			<serial_num>0000051</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>c9NPD7fVs%Cb_oIyyO938A</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>     --- Calculating Solution @ 7.7 GHz</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:42.0649</timestamp>
+			<serial_num>0000052</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03104</msg_id> <msg_name>SE_SET_STAT_LABELS</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>f6cUoPz9ecAFOiBgal2uk9</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:42.0649</timestamp>
+			<serial_num>0000053</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>mmZbrQJRiTmotpyBCamDFq</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>		----- Candidate Solver Type : Direct (high frequency)</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:42.0649</timestamp>
+			<serial_num>0000054</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03104</msg_id> <msg_name>SE_SET_STAT_LABELS</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>s0_A3WhkF5jQlfgyZ28X8z</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:42.0649</timestamp>
+			<serial_num>0000055</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>Z6gcp0Nm35qjlFdNAT4Rsj</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>		----- Calculating Greens Functions -----</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:42.0659</timestamp>
+			<serial_num>0000056</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>qLNm%5rLlKZlXRnGluGkWF</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:42.0686</timestamp>
+			<serial_num>0000057</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>qPNaf4H_iLVR%DlKtmX6rI</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:42.0708</timestamp>
+			<serial_num>0000058</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>2ha64Eo8xwxc24O3j8eSwX</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>		----- Matrix Setup -----</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:42.0709</timestamp>
+			<serial_num>0000059</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03104</msg_id> <msg_name>SE_SET_STAT_LABELS</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>XKVxXC7iot9sQBPNnf5iYl</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:42.0784</timestamp>
+			<serial_num>0000060</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>UUcOwPbFcKBRWnkZtjSPfr</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:42.0794</timestamp>
+			<serial_num>0000061</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>0%N3%4dQgThUt7wRu3nidt</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:42.0794</timestamp>
+			<serial_num>0000062</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03104</msg_id> <msg_name>SE_SET_STAT_LABELS</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>gH7wIu2tU9QaDgHD2KuTVX</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:42.0795</timestamp>
+			<serial_num>0000063</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>1jLLe_YBXOnB9ulwVm0%o3</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:42.0796</timestamp>
+			<serial_num>0000064</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>fb1ZI7TqvtFtSBRhnl5qkl</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:42.0797</timestamp>
+			<serial_num>0000065</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>wk0Dg2v79YvsNZMoT1yl69</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:42.0797</timestamp>
+			<serial_num>0000066</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>od71Qs6vMpYmDNrD5KvkVZ</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:42.0797</timestamp>
+			<serial_num>0000067</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>QUZ8zQxGi6HTqLvwZ_1ZU7</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:42.0797</timestamp>
+			<serial_num>0000068</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>AetbVQJ9iQCziqd2EQa8gE</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>			 - Elapsed time ( 00:00:0.15 )</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:42.0799</timestamp>
+			<serial_num>0000069</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>mSc3oMf90YCAOqgVF3APej</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>		----- Matrix Solve -----</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:42.0806</timestamp>
+			<serial_num>0000070</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>TYXoPJwXS3IDeOtc9QPejc</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>		----- Simulating DeEmbedding Standards -----</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:42.0806</timestamp>
+			<serial_num>0000071</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03104</msg_id> <msg_name>SE_SET_STAT_LABELS</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>VSi6p8pKxCWjrFeUAXzfKc</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:42.0806</timestamp>
+			<serial_num>0000072</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>Y1%r7ZJhSR59kkBDims8pM</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>		           Port 3: Single line de-embedding</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:42.0915</timestamp>
+			<serial_num>0000073</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>CDUlvxl85kzAiegOV381cw</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:42.0915</timestamp>
+			<serial_num>0000074</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>i1HJ6KSZXrTdLsRMPn03s0</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>		           Port 2: Single line de-embedding</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:43.0085</timestamp>
+			<serial_num>0000075</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>9J1OQ7bzsKfTU%v3ZYdEMS</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:43.0085</timestamp>
+			<serial_num>0000076</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>MgjJ1eRjXldBkSkfpgY93M</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>		           Port 1: Single line de-embedding</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:43.0284</timestamp>
+			<serial_num>0000077</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>VCCsqpN4D4jNhf6JYqQoHh</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:43.0284</timestamp>
+			<serial_num>0000078</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>7ll8lkwSi3p0dA1Fg6BTqn</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>			 - Elapsed time ( 00:00:0.48 )</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:43.0284</timestamp>
+			<serial_num>0000079</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>l8SJzqR3HkeXgXIHKOITaP</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>     --- Solution @ 7.7 GHz - Elapsed time ( 00:00:0.64 )</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:43.0287</timestamp>
+			<serial_num>0000080</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>6kyai8G7yEsTxPsudNUb7w</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>     --- Calculating Solution @ 7.1 GHz</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:43.0287</timestamp>
+			<serial_num>0000081</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03104</msg_id> <msg_name>SE_SET_STAT_LABELS</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>Rc9eMAWOjHb3IIfXM%J5_Q</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:43.0287</timestamp>
+			<serial_num>0000082</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>D80dw0Tf3s_UPXykK9gLB2</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>		----- Candidate Solver Type : Direct (high frequency)</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:43.0287</timestamp>
+			<serial_num>0000083</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03104</msg_id> <msg_name>SE_SET_STAT_LABELS</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>ufrtZJShTp40Ag0l01mz5q</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:43.0288</timestamp>
+			<serial_num>0000084</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>sXKgKV21A852wk9KgCVLrC</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>		----- Calculating Greens Functions -----</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:43.0297</timestamp>
+			<serial_num>0000085</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>04lIhmP7rcu2NUaowFz7Cc</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:43.0324</timestamp>
+			<serial_num>0000086</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>a3FUeDyPubeNIX77IsssNN</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:43.0348</timestamp>
+			<serial_num>0000087</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>az_bfUIKyOUBbyns9tMYT3</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>		----- Matrix Setup -----</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:43.0349</timestamp>
+			<serial_num>0000088</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03104</msg_id> <msg_name>SE_SET_STAT_LABELS</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>PtuPRXf2IYalMFmABqjiFd</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:43.0416</timestamp>
+			<serial_num>0000089</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>yKOzXacFEODEauzgWd1IQ6</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:43.0431</timestamp>
+			<serial_num>0000090</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>Pc1FM6C0qo3ZwfTU%vz4_c</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:43.0431</timestamp>
+			<serial_num>0000091</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03104</msg_id> <msg_name>SE_SET_STAT_LABELS</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>vGgEF2yva9%OD%84Ywj11c</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:43.0432</timestamp>
+			<serial_num>0000092</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>6hrP5Lf1YY6CMqqhFF6MAr</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:43.0434</timestamp>
+			<serial_num>0000093</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>RLDk_tjORfa3YEc7wMv61Y</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:43.0434</timestamp>
+			<serial_num>0000094</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>tDtStToLtyYVbPCkepiLBa</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:43.0434</timestamp>
+			<serial_num>0000095</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>%v_g%V3TAfuDZWtoFRzkmd</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:43.0435</timestamp>
+			<serial_num>0000096</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>v8KxyW6hEp6IAqN6H4ohhx</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:43.0435</timestamp>
+			<serial_num>0000097</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>qEUnzxtb5QKHiWLMG%1zY6</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>			 - Elapsed time ( 00:00:0.15 )</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:43.0437</timestamp>
+			<serial_num>0000098</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>Ht4DQitC9SrlpJk3RgfQ0%</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>		----- Matrix Solve -----</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:43.0443</timestamp>
+			<serial_num>0000099</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>HLtHZSJlqRlFlmCqqpFYCD</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>		----- Simulating DeEmbedding Standards -----</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:43.0443</timestamp>
+			<serial_num>0000100</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03104</msg_id> <msg_name>SE_SET_STAT_LABELS</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>7ppOBD9SsDpKtCX2rIaUMH</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:43.0443</timestamp>
+			<serial_num>0000101</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>z388cwwI22NPb7fgsZ1FQ6</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>		           Port 3: Single line de-embedding</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:43.0550</timestamp>
+			<serial_num>0000102</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>0nuHtWIZGPRFfmDAqug5V0</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:43.0550</timestamp>
+			<serial_num>0000103</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>2teEQWwXG3K8eUzfycZlPR</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>		           Port 2: Single line de-embedding</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:43.0703</timestamp>
+			<serial_num>0000104</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>O0400g0G02F8aAyHiaIlGN</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>		           Port 1: Single line de-embedding</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:43.0904</timestamp>
+			<serial_num>0000105</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>oS1Ao6hWp7HwuK1lU5l2lk</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:43.0904</timestamp>
+			<serial_num>0000106</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>Qi9h8B6lkpmhBp7IAuN9X4</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>			 - Elapsed time ( 00:00:0.46 )</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:43.0905</timestamp>
+			<serial_num>0000107</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>ni9O8D9psBB4mkiUhbzyKe</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>     --- Solution @ 7.1 GHz - Elapsed time ( 00:00:0.62 )</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:43.0910</timestamp>
+			<serial_num>0000108</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>IZ64Qoiyxa8CEyqH9GLaGY</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>     --- AFS: 3 points simulated (3 of 6 grid points).  Convergence error = -26.1547 dB  [*  *  *  * ]</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:43.0910</timestamp>
+			<serial_num>0000109</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>urYELOzwae15U4n8hswsO1</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value></value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:43.0913</timestamp>
+			<serial_num>0000110</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03010</msg_id> <msg_name>SE_ITER_DATA_SET</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>r5oMlz1%c7YWvPH4eIjANe</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:43.0974</timestamp>
+			<serial_num>0000111</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>GU1ew4WljFk3Bge20UajwF</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>     --- Calculating Solution @ 7.3 GHz</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:43.0974</timestamp>
+			<serial_num>0000112</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03104</msg_id> <msg_name>SE_SET_STAT_LABELS</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>ooVyzC9goB0Ik2Pvbd_0TU</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:43.0974</timestamp>
+			<serial_num>0000113</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>XdhgR53pkdARSjnFduCsWp</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>		----- Candidate Solver Type : Direct (high frequency)</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:43.0974</timestamp>
+			<serial_num>0000114</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03104</msg_id> <msg_name>SE_SET_STAT_LABELS</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>8c3pMdBGSmF5qAkIhiO5b8</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:43.0974</timestamp>
+			<serial_num>0000115</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>LNwf60_73UvtxZRrTlLhmZ</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>		----- Calculating Greens Functions -----</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:43.0974</timestamp>
+			<serial_num>0000116</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>vJ50Qk0Tg3uMdX24I8iYxb</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:43.0974</timestamp>
+			<serial_num>0000117</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>2_AeWgWJ3GQQHjiXdbIQKP</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:43.0981</timestamp>
+			<serial_num>0000118</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>yx_Q7XjzJefGU_GvWFYVDP</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>		----- Matrix Setup -----</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:43.0981</timestamp>
+			<serial_num>0000119</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03104</msg_id> <msg_name>SE_SET_STAT_LABELS</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>EdpaRAFviB_1nU5Uwnxvu5</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:44.0051</timestamp>
+			<serial_num>0000120</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>IHKJKWS0Ho1pw5CLmqYpHN</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:44.0067</timestamp>
+			<serial_num>0000121</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>xNJ_6TVjvBfUk%y3_8dHwS</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:44.0067</timestamp>
+			<serial_num>0000122</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03104</msg_id> <msg_name>SE_SET_STAT_LABELS</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>A37JcuREXmz0qc2%Mb_qLV</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:44.0067</timestamp>
+			<serial_num>0000123</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>KsZ9PQCpipC2CoaewEXCzK</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:44.0069</timestamp>
+			<serial_num>0000124</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>8JcIQOPRbfnYZvPy%eamUF</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:44.0069</timestamp>
+			<serial_num>0000125</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>3qywGa37EcuMNX07I0t11Q</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:44.0069</timestamp>
+			<serial_num>0000126</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>LqiVFbD5KslyNmahoF4oAh</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:44.0070</timestamp>
+			<serial_num>0000127</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>b4bdgIRQPngYt3O1f84pwh</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:44.0070</timestamp>
+			<serial_num>0000128</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>qvIW_PFzeCeooVzOCf9tYB</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>			 - Elapsed time ( 00:00:0.16 )</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:44.0072</timestamp>
+			<serial_num>0000129</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>MfS9%oB7yksvhN_D7WunFV</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>		----- Matrix Solve -----</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:44.0078</timestamp>
+			<serial_num>0000130</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>qAaagEG5yEn6xsrpNJAXSj</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>		----- Simulating DeEmbedding Standards -----</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:44.0078</timestamp>
+			<serial_num>0000131</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03104</msg_id> <msg_name>SE_SET_STAT_LABELS</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>QTlVtnAmuhqG5GEnGxsb5M</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:44.0079</timestamp>
+			<serial_num>0000132</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>WPSFfqD4GsggN10q41G96E</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>		           Port 3: Single line de-embedding</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:44.0189</timestamp>
+			<serial_num>0000133</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>ORUdnwRm3lrLlK_rXVLZC%</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:44.0189</timestamp>
+			<serial_num>0000134</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>fzcscNOz7ad9EQBpilAamg</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>		           Port 2: Single line de-embedding</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:44.0342</timestamp>
+			<serial_num>0000135</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>xaPsHdNyT6bAoKgBV2mD9q</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>		           Port 1: Single line de-embedding</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:44.0541</timestamp>
+			<serial_num>0000136</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03101</msg_id> <msg_name>SE_STATUS_EVENT</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>oLtRZTnDtutwVS3bocJ0OQ</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:44.0541</timestamp>
+			<serial_num>0000137</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>bW0oE1xZ67S3vodvwRY7nM</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>			 - Elapsed time ( 00:00:0.46 )</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:44.0541</timestamp>
+			<serial_num>0000138</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>CXCsKpMtD1QO7jbvcJZdTQ</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>     --- Solution @ 7.3 GHz - Elapsed time ( 00:00:0.63 )</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:44.0545</timestamp>
+			<serial_num>0000139</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>Wgv71YuFNWCZGrQCLirJ9K</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>     --- AFS: 4 points simulated (4 of 6 grid points).  Convergence error = -54.7677 dB  [D  R  H  P ]</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:44.0546</timestamp>
+			<serial_num>0000140</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>HvT1%s43Mgco0Nz26c9MMD</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>     --- AFS: Converged.</value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:44.0549</timestamp>
+			<serial_num>0000141</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03010</msg_id> <msg_name>SE_ITER_DATA_SET</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>aXvCJ_pdVATajsGxOG5PEn</message_unique_name>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:44.0593</timestamp>
+			<serial_num>0000142</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>ixMI72NTb7tYtTNuv5WwnG</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_LOG_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value><br/>------ Total Simulation Time - 00:00:3.17<br/></value>
+				</item>
+			</data>
+		</ipc_event>
+		<ipc_event>
+			<timestamp>2017-09-27T12:19:44.0593</timestamp>
+			<serial_num>0000143</serial_num>
+			<type>message</type>
+			<direction>receive</direction>
+			<receive_type>nonblocking</receive_type>
+			<transport>awr_local_ipc</transport>
+			<proc_name>MWOffice</proc_name> <proc_id>5292</proc_id>
+			<msg_id>03105</msg_id> <msg_name>SE_LOG_MESSAGE</msg_name>
+			<from>EM_Server_01PN7f4zYieD8WtwFS0Eo2.1696103484_12079063.0</from>
+			<to>MWO_Client_01PN7f4zYieD8WtwFS0Eo2.1696103484</to>
+			<message_unique_name>60cw0O0e80VP3DeJsWQHHi</message_unique_name>
+			<data>
+				<item>
+					<name>message_status</name>
+					<value>AWR_INFO_MSG</value>
+				</item>
+				<item>
+					<name>message_text</name>
+					<value>End simulate (3.20s)  </value>
+				</item>
+			</data>
+		</ipc_event>
+	</ipc_session>
+</tool_session>
